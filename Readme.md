@@ -1,2 +1,2 @@
-<!-- hello learning -->
-n = int(input("enter a number"))
+print("hello World")
+print("hello World")
